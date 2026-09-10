@@ -57,7 +57,7 @@
 
 	</ul>
 
-	<!-- El siguiente enlace es un elemento HTML llamado enlace hipertexto o anchoar, o 
+<!-- El siguiente enlace es un elemento HTML llamado enlace hipertexto o anchoar, o 
 llamado en los entornos de desarrollo ancla. 
 Cuando se haga click en dicho enlace
 se va a generar una peticion (request), a traves del protocolo HTTP (Hipertext 
@@ -70,8 +70,7 @@ manejar peticiones recibidas mediante el protocolo HTTP y que puede generar la
 respuesta mediante codigo HTML o utilizar una vista para mostrar la respuesta a la 
 peticion recibida. Normalmente el Servlet se comunica con el modelo para, a traves 
 del procotolo JDBC (Java Data Base Connectivity) acceder a la base de datos -->
-
-	<!-- El patron MVC no se implementa de forma aislada sino que se implementa conjuntamente
+<!-- El patron MVC no se implementa de forma aislada sino que se implementa conjuntamente
 con el patron Facade, que es patron de diseño que divide el proyecto en distintas
 capas que el objetivo es ocultar la complejidad de una capa a otra, en tal sentido 
 se acostumbra a tener, por lo menos, las siguientes capas, que son paquetes:
